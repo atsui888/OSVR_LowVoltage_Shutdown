@@ -1,0 +1,9 @@
+c:\users\drew\documents\visual studio 2013\Projects\UPS_Service\UPS_Service\bin\Release\UPS_Service.exe.config
+c:\users\drew\documents\visual studio 2013\Projects\UPS_Service\UPS_Service\bin\Release\UPS_Service.exe
+c:\users\drew\documents\visual studio 2013\Projects\UPS_Service\UPS_Service\bin\Release\UPS_Service.pdb
+c:\users\drew\documents\visual studio 2013\Projects\UPS_Service\UPS_Service\obj\Release\UPS_Service.Form1.resources
+c:\users\drew\documents\visual studio 2013\Projects\UPS_Service\UPS_Service\obj\Release\UPS_Service.Properties.Resources.resources
+c:\users\drew\documents\visual studio 2013\Projects\UPS_Service\UPS_Service\obj\Release\UPS_Service.csproj.GenerateResource.Cache
+c:\users\drew\documents\visual studio 2013\Projects\UPS_Service\UPS_Service\obj\Release\UPS_Service.exe
+c:\users\drew\documents\visual studio 2013\Projects\UPS_Service\UPS_Service\obj\Release\UPS_Service.pdb
+c:\users\drew\documents\visual studio 2013\Projects\UPS_Service\UPS_Service\obj\Release\UPS_Service.csprojResolveAssemblyReference.cache

@@ -1,0 +1,18 @@
+c:\users\drew\documents\visual studio 2013\Projects\UPS_Service\UPS_Service\bin\Debug\UPS_Service.exe.config
+c:\users\drew\documents\visual studio 2013\Projects\UPS_Service\UPS_Service\bin\Debug\UPS_Service.exe
+c:\users\drew\documents\visual studio 2013\Projects\UPS_Service\UPS_Service\bin\Debug\UPS_Service.pdb
+c:\users\drew\documents\visual studio 2013\Projects\UPS_Service\UPS_Service\obj\Debug\UPS_Service.csprojResolveAssemblyReference.cache
+c:\users\drew\documents\visual studio 2013\Projects\UPS_Service\UPS_Service\obj\Debug\UPS_Service.Form1.resources
+c:\users\drew\documents\visual studio 2013\Projects\UPS_Service\UPS_Service\obj\Debug\UPS_Service.Properties.Resources.resources
+c:\users\drew\documents\visual studio 2013\Projects\UPS_Service\UPS_Service\obj\Debug\UPS_Service.csproj.GenerateResource.Cache
+c:\users\drew\documents\visual studio 2013\Projects\UPS_Service\UPS_Service\obj\Debug\UPS_Service.exe
+c:\users\drew\documents\visual studio 2013\Projects\UPS_Service\UPS_Service\obj\Debug\UPS_Service.pdb
+C:\Users\LT-052\Desktop\Projects\20 Automatic Shutdown of PC\Arduino\02 Voltage_Actioner\2017_04_10 1045\UPS_Service\bin\Debug\UPS_Service.exe
+C:\Users\LT-052\Desktop\Projects\20 Automatic Shutdown of PC\Arduino\02 Voltage_Actioner\2017_04_10 1045\UPS_Service\bin\Debug\UPS_Service.pdb
+C:\Users\LT-052\Desktop\Projects\20 Automatic Shutdown of PC\Arduino\02 Voltage_Actioner\2017_04_10 1045\UPS_Service\bin\Debug\UPS_Service.exe.config
+C:\Users\LT-052\Desktop\Projects\20 Automatic Shutdown of PC\Arduino\02 Voltage_Actioner\2017_04_10 1045\UPS_Service\obj\Debug\UPS_Service.Form1.resources
+C:\Users\LT-052\Desktop\Projects\20 Automatic Shutdown of PC\Arduino\02 Voltage_Actioner\2017_04_10 1045\UPS_Service\obj\Debug\UPS_Service.Properties.Resources.resources
+C:\Users\LT-052\Desktop\Projects\20 Automatic Shutdown of PC\Arduino\02 Voltage_Actioner\2017_04_10 1045\UPS_Service\obj\Debug\UPS_Service.csproj.GenerateResource.Cache
+C:\Users\LT-052\Desktop\Projects\20 Automatic Shutdown of PC\Arduino\02 Voltage_Actioner\2017_04_10 1045\UPS_Service\obj\Debug\UPS_Service.exe
+C:\Users\LT-052\Desktop\Projects\20 Automatic Shutdown of PC\Arduino\02 Voltage_Actioner\2017_04_10 1045\UPS_Service\obj\Debug\UPS_Service.pdb
+C:\Users\LT-052\Desktop\Projects\20 Automatic Shutdown of PC\Arduino\02 Voltage_Actioner\2017_04_10 1045\UPS_Service\obj\Debug\UPS_Service.csprojResolveAssemblyReference.cache

@@ -1,0 +1,20 @@
+
+C:\Users\LT-052\Desktop\Projects\20 Automatic Shutdown of PC\Arduino\02b Voltage_Actioner Py\2017_04_13 1240>C:\Windows\System32\cmd.exe /c powershell.exe -NoProfile -ExecutionPolicy Bypass -FILE ShutDown.ps1 
+Running Limited!
+Shutting down computer without force commencing
+Stop-Computer : Privilege not held. 
+At C:\Users\LT-052\Desktop\Projects\20 Automatic Shutdown of PC\Arduino\02b Voltage_Actioner Py\2017_04_13 
+1240\ShutDown.ps1:7 char:1
++ Stop-Computer
++ ~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (DESKTOP-NTGNFJF:String) [Stop-Computer], ManagementException
+    + FullyQualifiedErrorId : StopComputerException,Microsoft.PowerShell.Commands.StopComputerCommand
+ 
+
+
+
+rc: Windows update on April 12, 2017, broke the powershell command "Stop-Computer", it now needs elavated priviledges.
+However, as the OSVR windows is not updated on April 12, and is unlikely to be updated as it is only connected via VPN to a fixed customer site, the code on "2017_04_12 1245" should still work.
+
+HOWEVER, for OSVRs that are updated to latest windows release after April 12, we are likely to need to use new code that avoids powershell "STop-Computer" command.
+
